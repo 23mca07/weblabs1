@@ -1,0 +1,44 @@
+body{
+    fontfamily:Arial,sansserif
+    background_color:cyan;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify_content:center:
+    align items:center;
+    height:100vh;}
+    
+    
+    .container{
+    background_color:red;
+    padding:20px;
+    border_radius:8px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    }
+    
+    
+    form{
+    display:flex;
+    flex direction:column}
+    
+    
+    label{
+    margin_bottom:8px;
+    }
+    
+    input{
+    padding:8px:
+    margib-bottom:16px;}
+    
+    
+    button{
+    background_color:black;
+    color:#fff;
+    padding:10px;
+    border:none;
+    border_radius:4px;
+    cursor:pointer;}
+    
+    button:hover{
+    background_color:pink;
+    }
